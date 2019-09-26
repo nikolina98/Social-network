@@ -52,7 +52,7 @@ public class ChangePanel extends JDialog {
 		contentPanel.setBorder(new EmptyBorder(5, 5, 5, 5));
 		getContentPane().add(contentPanel, BorderLayout.CENTER);
 		contentPanel.setLayout(null);
-		this.setContentPane(new JLabel(new ImageIcon("C:\\Users\\Nina\\Desktop\\251133.jpg")));
+		this.setContentPane(new JLabel(new ImageIcon("")));
 
 		{
 			JButton btnName = new JButton("Change name");
