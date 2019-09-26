@@ -56,8 +56,7 @@ public class MyProfile extends JDialog {
 		contentPanel.setBounds(0, 0, 0, 0);
 		contentPanel.setBorder(new EmptyBorder(5, 5, 5, 5));
 		getContentPane().add(contentPanel);
-		contentPanel.setLayout(null);
-//		final ImageIcon backgroundImage = new ImageIcon("C:\\Users\\Nina\\Desktop\\back.png");
+		contentPanel.setLayout(null)
 //		JLabel label = new JLabel(backgroundImage);
 //		label.setBounds(0, 0, 786, 594);
 //		getContentPane().add(label);
