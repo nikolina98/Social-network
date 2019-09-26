@@ -59,7 +59,7 @@ public class HeadWindow {
 		frmSocialNetwork.setBounds(100, 100, 717, 545);
 		frmSocialNetwork.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frmSocialNetwork.getContentPane().setLayout(null);
-		frmSocialNetwork.setContentPane(new JLabel(new ImageIcon("C:\\Users\\Nina\\Desktop\\251133.jpg")));
+		frmSocialNetwork.setContentPane(new JLabel(new ImageIcon("")));
 		
 		JLabel lblNewLabel = new JLabel("WELCOME!");
 		lblNewLabel.setForeground(Color.WHITE);
