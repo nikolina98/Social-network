@@ -36,7 +36,6 @@ public class NewAccountOpening extends JDialog {
 	private JTextField txtSurname;
 	private JTextField txtMail;
 	private JPasswordField passwordField;
-	private String defPicPath = "C:\\Users\\Nina\\Dekstop\\pic1.png";
 
 	/**
 	 * Launch the application.
